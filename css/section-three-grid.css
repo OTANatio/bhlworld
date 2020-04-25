@@ -1,0 +1,39 @@
+div.grids {
+    background-color: #F7FBFF;
+    margin-top: 72px;
+}
+
+div.grids div.top-section-left, .brand-avatar {
+    display: flex;
+    align-items: center;
+}
+
+div.grids div.top-section-left img.img-avatar {
+    flex: 1;
+    width: 100vh;
+}
+
+
+div.grids div.top-section-left div.top-section-description {
+    flex: 1;
+}
+
+img.icon-avatar {
+    margin: 0px 24px;
+}
+
+p.brand-name {
+    font-weight: 600;
+    color: #333
+}
+
+p.brand-comment {
+    margin:24px;
+}
+
+p.brand-representative {
+    margin:24px;
+    position: relative;
+    bottom:-54px;
+    color: #666
+}

@@ -1,0 +1,46 @@
+/*Written by ozenua_uiux*/
+*{
+    font-family: maven pro;
+}
+/*text classes*/
+p.text-header {
+    font-size: 48px;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
+
+p.small-text {
+    font-size: 20px;
+    color: #666;
+    line-height: 24px;
+}
+
+h1 {
+    font-size: 64px;
+    color: #0071bc;
+    font-weight: 600;
+    margin-bottom: 16px;
+    width: 574px;
+    margin-top: 20%;
+    float: none;
+    isolation: isolate;
+}
+
+p.hero-subheader {
+    font-size: 32px;
+    color: #333;
+    font-weight: 600;
+    width: 678px;
+}
+
+li {
+    color: #666;
+    text-decoration: none;
+    list-style: none;
+    cursor: pointer;
+}
+
+li:hover {
+    color: #0071bc
+}
